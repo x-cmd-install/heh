@@ -21,11 +21,10 @@ x install heh
 
 - **Latest**: `v0.6.3` (2026-01-16)
 - **Last commit**: 2026-02-09
-- **Published**: 2026-01-16T12:12:15Z
 
 ## Popularity
 
-- **Stars**: 499 · **Forks**: 18 · **Open issues**: 27 · **Contributors**: 10
+- **Stars**: 500 · **Forks**: 18 · **Open issues**: 27 · **Contributors**: 10
 
 ## Totals (cumulative)
 
@@ -54,8 +53,8 @@ Total: **2,418** lines of code across **22** files in the top 5 languages.
 Install metadata for heh lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `heh` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/heh.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/heh.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:31:26Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:08:47Z._

@@ -1,0 +1,183 @@
+- repo: parabola
+  subrepo: extra
+  srcname: heh
+  binname: heh
+  visiblename: heh
+  version: 0.6.3
+  origversion: 0.6.3-1
+  status: newest
+  summary: A terminal UI to edit bytes by the nibble
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: testing
+  srcname: heh
+  binname: heh
+  visiblename: heh
+  version: 0.6.3
+  origversion: 0.6.3-r0
+  status: newest
+  summary: A terminal UI to edit bytes by the nibble
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: testing
+  srcname: heh
+  binname: heh-doc
+  visiblename: heh-doc
+  version: 0.6.3
+  origversion: 0.6.3-r0
+  status: newest
+  summary: A terminal UI to edit bytes by the nibble (documentation)
+  maintainers:
+    - orhunparmaksiz@gmail.com
+  licenses:
+    - MIT
+- repo: arch
+  subrepo: extra
+  srcname: heh
+  binname: heh
+  visiblename: heh
+  version: 0.6.3
+  origversion: 0.6.3-1
+  status: newest
+  summary: A terminal UI to edit bytes by the nibble
+  licenses:
+    - MIT
+- repo: gentoo_ovl_guru
+  srcname: gui-apps/heh
+  visiblename: gui-apps/heh
+  version: 0.6.3
+  origversion: null
+  status: newest
+  summary: A cross-platform terminal UI used for modifying file data in hex or ASCII.
+  maintainers:
+    - gentoo@boris.fau.re
+  licenses:
+    - MIT
+    - Apache-2.0
+    - Boost-1.0
+    - Unicode-DFS-2016
+    - WTFPL-2
+    - ZLIB
+  categories:
+    - gui-apps
+- repo: liguros_develop
+  srcname: gui-apps/heh
+  visiblename: gui-apps/heh
+  version: 0.6.3
+  origversion: null
+  status: newest
+  summary: A cross-platform terminal UI used for modifying file data in hex or ASCII.
+  maintainers:
+    - gentoo@boris.fau.re
+  licenses:
+    - MIT
+    - Apache-2.0
+    - Boost-1.0
+    - Unicode-DFS-2016
+    - WTFPL-2
+    - ZLIB
+  categories:
+    - gui-apps
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: heh
+  binname: heh
+  visiblename: heh
+  version: 0.6.3
+  origversion: 0.6.3-1
+  status: newest
+  summary: A terminal UI to edit bytes by the nibble
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: heh
+  binname: heh
+  visiblename: heh
+  version: 0.6.3
+  origversion: 0.6.3-1
+  status: newest
+  summary: A terminal UI to edit bytes by the nibble
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: heh
+  binname: heh
+  visiblename: heh
+  version: 0.6.3
+  origversion: 0.6.3-1
+  status: newest
+  summary: A terminal UI to edit bytes by the nibble
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: heh
+  visiblename: heh
+  version: 0.5.0
+  origversion: null
+  status: outdated
+  summary: A cross-platform terminal UI used for modifying file data in hex or ASCII.
+  maintainers:
+    - peterhebden6@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: heh
+  visiblename: heh
+  version: 0.6.1
+  origversion: null
+  status: outdated
+  summary: Cross-platform terminal UI used for modifying file data in hex or ASCII
+  maintainers:
+    - peterhebden6@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: heh
+  visiblename: heh
+  version: 0.6.1
+  origversion: null
+  status: outdated
+  summary: Cross-platform terminal UI used for modifying file data in hex or ASCII
+  maintainers:
+    - peterhebden6@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: heh
+  visiblename: heh
+  version: 0.6.1
+  origversion: null
+  status: outdated
+  summary: Cross-platform terminal UI used for modifying file data in hex or ASCII
+  maintainers:
+    - peterhebden6@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: heh
+  visiblename: heh
+  version: 0.6.3
+  origversion: null
+  status: newest
+  summary: Cross-platform terminal UI used for modifying file data in hex or ASCII
+  maintainers:
+    - peterhebden6@gmail.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: heh
+  visiblename: heh
+  version: 0.6.3
+  origversion: null
+  status: newest
+  summary: Cross-platform terminal UI used for modifying file data in hex or ASCII
+  maintainers:
+    - peterhebden6@gmail.com
+  licenses:
+    - MIT
